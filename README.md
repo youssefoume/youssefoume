@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssefoume
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning and deep learning
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning java and angualr
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
