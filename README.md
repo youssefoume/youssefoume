@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssefoume
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning java and angualr
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Java and Angualr
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
