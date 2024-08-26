@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @youssefoume
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java and Angualr
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-youssefoume/youssefoume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Software Engineering, with a focus on full-stack development and cloud technologies.
+- 🌱 I’m currently learning Java and Angular, with hands-on experience in developing scalable microservices and intuitive front-end applications.
+- 💞️ I’m looking to collaborate on open-source projects, particularly those involving Java, Angular, AWS, or machine learning.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/youssefoumenskou/), [Email](mailto:youssef.oumenskou@hotmail.com)
