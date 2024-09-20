@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Youssef Oumenskou!
 
-💻 | [My GitHub Profile](https://github.com/youssefoumenskou)
+💻 | [My GitHub Profile](https://github.com/youssefoume)
 
-I'm a **Full Stack Developer** with a background in **Software Engineering** from **EILCO Calais** and **ENSA Marrakech**. With hands-on experience in backend development, cloud technologies, and frontend design, I am passionate about building scalable, efficient, and user-friendly applications.
+I'm a **Software Engineer** with a background in **Software Engineering** from **EILCO Calais** and **ENSA Marrakech**. With hands-on experience in backend development, cloud technologies, and frontend design, I am passionate about building scalable, efficient, and user-friendly applications.
 
 ## 💼 Experience:
 - **Software Engineer Intern at SNCF Connect & Tech**  
